@@ -11,7 +11,7 @@ Each word has its own page with a definition, example uses, and a table of synon
 -  Clickable links to navigate between word pages  
 -  A great learning tool for beginners who want to build and structure HTML projects
 
-## 📂 Folder Structure
+##  Folder Structure
 fsd-project/ ├── index.html ├── word1.html to word20.html ├── README.md
 
 ##  Why This Project?
